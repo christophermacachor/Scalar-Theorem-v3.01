@@ -1,0 +1,32 @@
+name: Zenodo Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  zenodo-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Upload to Zenodo Sandbox (Test)
+        if: github.event.release.prerelease == true
+        run: |
+          echo "Pre-release detected. Upload to Zenodo Sandbox recommended."
+          echo "Configure ZENODO_SANDBOX_TOKEN secret for automated upload."
+
+      - name: Upload to Zenodo Production
+        if: github.event.release.prerelease == false
+        run: |
+          echo "Release detected. Upload to Zenodo Production recommended."
+          echo "Configure ZENODO_TOKEN secret for automated upload."
+          echo ""
+          echo "Manual upload steps:"
+          echo "1. Download release asset (PDF)"
+          echo "2. Log in to https://zenodo.org"
+          echo "3. Click 'New Upload'"
+          echo "4. Upload the PDF and CITATION.cff"
+          echo "5. Verify metadata auto-populated from CITATION.cff"
+          echo "6. Click 'Publish' to reserve DOI"
