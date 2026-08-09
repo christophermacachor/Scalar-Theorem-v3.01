@@ -1,4 +1,4 @@
-Macachor Scalar Theorem v3.0.1
+Macachor Scalar Theorem  v3.0.2
 Release Date
 August 4, 2026
 What's New
@@ -8,8 +8,8 @@ Formal errata for Earth core corrections
 Peer-reviewed bridges: Hazra & Goswami (2024), Gagliardi (2002), Denton (2025)
 Cleaned for professional scientific submission
 Files
-Macachor_Scalar_Theorem_v3.0.1.pdf — Main publication (consolidated)
-Macachor_Scalar_Theorem_v3.0.1.md — Markdown source
+Macachor_Scalar_Theorem_ v3.0.2.pdf — Main publication (consolidated)
+Macachor_Scalar_Theorem_ v3.0.2.md — Markdown source
 CITATION.cff — Citation metadata
 Citation
 plain
