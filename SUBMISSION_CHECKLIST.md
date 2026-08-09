@@ -10,7 +10,7 @@ Zenodo Upload Order
 Upload CITATION.cff first
 Verify metadata auto-populates correctly
 Check title, author, keywords, license
-Upload Macachor_Scalar_Theorem_v3.0.1.pdf
+Upload Macachor_Scalar_Theorem_ v3.0.2.pdf
 Set as "Publication / Preprint"
 Verify file preview loads
 Fill remaining metadata
