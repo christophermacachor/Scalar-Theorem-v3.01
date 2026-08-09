@@ -1,32 +1,13 @@
+
 cff-version: 1.2.0
-message: "If you use this framework, please cite it as below."
+message: "If you use this theorem, please cite this repository."
+type: software
 title: "The Macachor Scalar Theorem: A Generalized Pythagorean Framework for Scalar Field Ontology, Quaternion Coherence, and Quantum Hardware Architecture"
 authors:
   - family-names: "Macachor"
     given-names: "Christopher"
     orcid: "https://orcid.org/0009-0008-0100-2856"
-date-released: 2026-08-04
-url: "https://macachor.org"
-repository-code: "https://github.com/cmacachor/quantum-memory"
+repository-code: "https://github.com/christophermacachor/Scalar-Theorem-v3.01"
 license: CC-BY-4.0
-keywords:
-  - scalar field theory
-  - Pythagorean theorem
-  - quaternion algebra
-  - quantum coherence
-  - scalar density equilibrium
-  - Macachor Absolute
-  - coherence architecture
-  - KIWF pipeline
-  - CRHA architecture
-  - flux pinning
-  - quantum hardware
-  - information theory
-preferred-citation:
-  type: article
-  title: "The Macachor Scalar Theorem"
-  authors:
-    - family-names: "Macachor"
-      given-names: "Christopher"
-  year: 2026
-  journal: "Zenodo Preprint"
+version: v3.0.3
+date-released: 2026-08-09
