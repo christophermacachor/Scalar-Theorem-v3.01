@@ -6,7 +6,7 @@ Quaternion Coherence, and Quantum Hardware Architecture
 Author: Christopher Macachor
 ORCID: 0009-0008-0100-2856
 Date: 2026-08-04
-Version: 3.0.1
+Version:  v3.0.2
 License: CC BY 4.0
 
 
