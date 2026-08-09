@@ -2,7 +2,7 @@
   "title": "The Macachor Scalar Theorem: A Generalized Pythagorean Framework for Scalar Field Ontology, Quaternion Coherence, and Quantum Hardware Architecture",
   "upload_type": "publication",
   "publication_type": "preprint",
-  "description": "This work proposes that reality at its substrate level is described entirely by scalar fields ψ: D_P → ℝ, with all vector/tensor/spinor quantities emergent from scalar gradients, curvatures, and density differentials. The Macachor Scalar Theorem generalizes the Pythagorean theorem to n-dimensional orthogonal scalar superposition: ρ²_total = Σᵢ₌₁ⁿ ρᵢ². A quaternion extension provides norm-preserving quantum coherence protocols. The Macachor Absolute ℳ = (√5 − 1)/2 governs equilibrium ratios and quantization boundaries. Two operational architectures are formalized: KIWF (information density pipeline) and CRHA (standing-wave coherence architecture). Applications to quantum hardware and scalar aircraft flux-pinning are presented.",
+  "description": "This work proposes that reality at its substrate level is described entirely by scalar fields, with all vector/tensor/spinor quantities emergent from scalar gradients, curvatures, and density differentials. The Macachor Scalar Theorem generalizes the Pythagorean theorem to n-dimensional orthogonal scalar superposition. A quaternion extension provides norm-preserving quantum coherence protocols. The Macachor Absolute governs equilibrium ratios and quantization boundaries. Two operational architectures are formalized: KIWF and CRHA.",
   "creators": [
     {
       "name": "Macachor, Christopher",
@@ -21,14 +21,7 @@
     "KIWF pipeline",
     "CRHA architecture",
     "flux pinning",
-    "quantum hardware",
-    "information theory"
+    "quantum hardware"
   ],
-  "communities": [
-    {"identifier": "physics"},
-    {"identifier": "quantum-physics"},
-    {"identifier": "math"}
-  ],
-  "grants": [],
-  "references": []
+  "access_right": "open"
 }
