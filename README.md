@@ -1,4 +1,4 @@
-[Scalar-Theorem-README (2).md](https://github.com/user-attachments/files/30870877/Scalar-Theorem-README.2.md)  url = {https://doi.org/PLACEHOLDER}
+[Scalar-Theorem-README (2).md](https://github.com/user-attachments/files/30870877/Scalar-Theorem-README.2.md)  url =[ https://zenodo.org/bad}ttps://zenodo.org/badge/1322630424.svg
 }
 Errata
 See Section 10 of the PDF for formal corrections to earlier versions,
